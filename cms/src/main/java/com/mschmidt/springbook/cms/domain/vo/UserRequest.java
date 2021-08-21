@@ -7,10 +7,9 @@ import lombok.Data;
 @Data
 public class UserRequest {
 
-  String identity;
+	String identity;
 
-  String name;
+	String name;
 
-  Role role;
-
+	Role role;
 }

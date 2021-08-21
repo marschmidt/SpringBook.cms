@@ -9,8 +9,8 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class Review {
 
-  String userId;
+	String userId;
 
-  String status;
+	String status;
 
 }
